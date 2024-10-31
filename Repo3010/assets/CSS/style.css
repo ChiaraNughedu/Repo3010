@@ -1,0 +1,75 @@
+html, body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+   
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+
+#logo {
+    width: 15%;
+    margin: 2em;
+    
+}
+main {
+    width: 50vw;
+    margin: 0 auto;
+}
+.primotitolo {
+    width: 100%;
+    color: #004D4C;
+    padding: 1rem 0;
+    text-align: center;
+    background-color: #faf7e7;
+    border-top: 2px color #FFD468;   
+}
+
+.secondotitolo {
+    width: 50vw;
+    text-align: center;
+
+}
+
+.terzotitolo {
+    text-align: justify;
+    font-size: 1rem;
+}
+.sottotitoloimg {
+    text-align: center;
+    color: #979797;
+    letter-spacing: 1,5px;
+}
+.border1 {
+    border-left: 3px #FFD773;
+}
+.p1 {
+color: #C16436;
+letter-spacing: 0.9px;
+text-transform: uppercase;
+margin: 0;
+}
+.fake {
+    color:#0E7676;
+}
+.sez1 {
+    font-size: 2em;
+    border-bottom: 3vw; 
+    border-color: #FFD366;
+}
+.lista1 {
+    line-height: 2.3em;
+}
+.sez2 {
+    font-size: 2em;
+}
+.lista2 {
+    line-height: 2.3em;
+}
+.last {
+    padding-left: 40px;
+}
+.verolink {
+    color: #047171;
+}
